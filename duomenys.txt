@@ -1,0 +1,10 @@
+10|10|raudona
+-10|15|raudona
+5|-6|raudona
+35|-9|raudona
+0|0|raudona
+3|6|raudona
+-3|-2|raudona
+6|-7|raudona
+1|8|raudona
+0|3|raudona
